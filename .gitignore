@@ -1,0 +1,38 @@
+```
+# Android build outputs
+*.apk
+*.aar
+*.aab
+*.so
+
+# Android build directories
+build/
+.gradle/
+captures/
+.externalNativeBuild/
+
+# Android Studio generated files
+local.properties
+gradle-wrapper.properties
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local configuration property files
+local.properties
+```
